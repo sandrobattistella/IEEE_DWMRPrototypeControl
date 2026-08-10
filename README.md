@@ -77,8 +77,12 @@ To generate the figures presented in the article, execute the script <code>Matla
 
 # Screenshots #
 
-![Block Diagram of the Dynamic Control System](ProjectImages/BlockDiagram-DynamicControl.png)
-
-
+![Chassis Dimensions](ProjectImages/ChassisDimensions.png)
+![Block Diagram of the Kinematic Control System](ProjectImages/KinematicControl.png)
+![Block Diagram of the Dynamic Control System](ProjectImages/DynamicControl.png)
+![Block Diagram of the Actuator](ProjectImages/Elements.png)
+![DWMR Prototype](ProjectImages/Prototype.png)
+![Raspberry PI inputs and outputs](ProjectImages/RaspberryIO.png)
+![Simplified Diagram of the Prototype](ProjectImages/SimplifiedDiagram.png)
 
 
