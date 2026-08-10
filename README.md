@@ -60,7 +60,7 @@ The <code>Prototype_ATmega</code> folder contains the C source code for the ATme
 Matlab 2018b or later, Simulink with the following Matlab official toolboxes: cstblocks and cstextras (Control System Toolbox) e dspmtrx3 (DSP System Toolbox).
 
 
-# Instructions for Running the Simulation and Experimental Platform * 
+# Instructions for Running the Simulation and Experimental Platform #
 
 To run the simulations, execute the <code>script_principal.m</code> file located in the folder <strong>MatlabSimulink/Evaluations/Name_simulation_trajectory_type</strong>.
 
@@ -76,5 +76,9 @@ To generate the figures presented in the article, execute the script <code>Matla
 
 
 # Screenshots #
+
+![Block Diagram of the Dynamic Control System](ProjectImages/BlockDiagram-DynamicControl.png)
+
+
 
 
